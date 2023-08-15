@@ -1,4 +1,4 @@
-**# Dabotics Web Development Internship**
+# Dabotics Web Development Internship
 
 # Task 1 Create a Responsive Website
 
